@@ -3,9 +3,9 @@
 Automatically remediate security issues detected in your cloud environments with Sophos Cloud Optix using serverless functions.
 
 * [How it Works](#how-it-works)
-* Getting Started
+* [Getting Started](#getting-started)
     * [AWS](#aws)
-    * [AZURE](#azure)
+    * [Azure](#azure)
     
 * [Getting Help](#getting-help)
 * [How to Contribute](#how-to-contribute)
@@ -56,7 +56,7 @@ From the repository copy and paste the remediations which you want to be Auto re
 
 `Main.py` is the main function which will run all the remediations so this should be attached to runtime settings → Handler of the newly created lambda.
 
-### AZURE
+### Azure
 
 1. Go to the Azure portal.
 2. Search for Function App.
