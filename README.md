@@ -1,7 +1,5 @@
 # Sophos Cloud Optix Remediation Functions
 
-This project is maintained by the Sophos Public Cloud Team.
-
 Automatically remediate security issues detected in your cloud environments with Sophos Cloud Optix using serverless functions.
 
 * [How it Works](#how-it-works)
