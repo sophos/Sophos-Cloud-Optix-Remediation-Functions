@@ -47,6 +47,7 @@ You can create your own automatic remediations by using the samples in this repo
 18. Click on Method Request -> Settings -> API Key Required and set to True.
 19. Go to: Actions and Deploy API
 20. Set Stage to default.
+21. Go to Usage Plans -> In Details (Associated API Stages) -> Select you API and default stage and click (tick). 
 
 You will now see the API URL and API key on lambda functions -> Configuration -> Trigger.
 
