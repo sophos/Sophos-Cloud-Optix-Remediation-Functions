@@ -41,7 +41,7 @@ You can create your own automatic remediations by using the samples in this repo
 12. Set Security to API Key.
 13. Choose Add
 14. Go to: Lambda Function -> Configuration -> Triggers
-15. Click on the API Gateway link to create a POST request or simply use the ANY API link and skip below steps.
+15. Click on the API Gateway link to create a POST request.
 16. Go to Resources -> Actions, Create method POST
 17. Attach the newly created lambda function to the method.
 18. Click on Method Request -> Settings -> API Key Required and set to True.
